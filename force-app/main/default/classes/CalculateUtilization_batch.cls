@@ -1,5 +1,5 @@
 public class CalculateUtilization_batch implements Database.Batchable<SObject>, database.stateful{
-    
+    // set to store assetids
     public set<id> AssetAndUtilizationIdset;
     public List<EOSedge_Utilization__c> assetList;
     
