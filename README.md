@@ -21,7 +21,7 @@ This Salesforce Batch Class is a robust solution designed to efficiently handle 
 **Logging and Monitoring:** Logs relevant information and metrics during batch execution for monitoring and analysis purposes.
 Usage:
 
-**Integration:** Integrate the batch class into your Salesforce org to leverage its capabilities for data processing tasks.
+**Deployment:** Deploy the batch class into your Salesforce org to leverage its capabilities for data processing tasks.
 **Configuration:** Configure batch parameters and processing logic according to your specific use case and requirements.
 **Execution:** Initiate batch execution either manually or through scheduled jobs to process large datasets efficiently.
 **Monitoring:** Monitor batch execution progress and performance metrics to ensure smooth operation and identify areas for optimization.
